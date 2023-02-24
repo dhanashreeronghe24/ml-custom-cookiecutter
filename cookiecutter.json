@@ -1,0 +1,11 @@
+{
+  "experiment_number": 1,
+  "repo_name": "ml-experiment-v1",
+  "my_Makefile": "Makefile",
+  "index_file": "main",
+  "train_file": "train.py",
+  "predict_file": "predict.py",
+  "my_shell_file": "ml_experiment_shell_v1",
+  "username": "Dhanshree",
+  "my_readme_file": "ml_experiment_readme_v1"
+}
