@@ -1,1 +1,0 @@
-"Hi!!! {{cookiecutter.username}}"
